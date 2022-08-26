@@ -1,0 +1,2 @@
+2022-08-26 07:03:07,776 "Have a good day" has been notified.
+2022-08-26 07:03:24,924 Error: "Have a good day" has been not been notified due to Bad Request

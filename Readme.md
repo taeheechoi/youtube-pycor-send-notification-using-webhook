@@ -36,7 +36,9 @@ The intention of this project is to help developers to send a notification to ch
    ```
    WEBHOOK_URL=your webhook url
    ```
-5. Update run.bat with a correct project folder
+5. Create log folder for logging results
+
+6. Update run.bat with a correct project folder
    ```sh
    C:\project-folder\venv\Scripts\python.exe main.py
    ```
