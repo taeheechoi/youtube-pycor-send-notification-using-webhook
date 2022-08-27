@@ -26,8 +26,13 @@ The intention of this project is to help developers to send a notification to ch
    ```
 2. Create a virtual environment and activate it
    ```sh
+   Windows:
    python -m venv venv
    venv\scripts\activate
+
+   Linux:
+   python3 -m venv venv
+   source venv\bin\activate
    ```
 3. Install packages
    ```sh
