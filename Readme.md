@@ -19,6 +19,7 @@ The intention of this project is to help developers to send a notification to ch
 - VS Code
 
 ### Installation
+[YouTube](https://youtu.be/XAybTjL9wxI)
 
 1. Clone the repo
    ```sh
@@ -47,4 +48,7 @@ The intention of this project is to help developers to send a notification to ch
    ```sh
    C:\project-folder\venv\Scripts\python.exe main.py
    ```
+
+
+
 
